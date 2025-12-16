@@ -1,6 +1,6 @@
 # AI-Enhanced Kanban Board
 
-![Dashboard Preview](https://via.placeholder.com/800x400/1e293b/ffffff?text=AI+Kanban+Board+Dashboard)
+![AI Kanban Dashboard](./assets/dashboard-preview.png)
 
 A modern, interactive Kanban board built with **React** and **Tailwind CSS**, featuring generative AI integration to help break down complex tasks into actionable sub-steps automatically.
 
@@ -54,12 +54,6 @@ A modern, interactive Kanban board built with **React** and **Tailwind CSS**, fe
    ```bash
    npm run dev
    ```
-
-## 📸 Screenshots
-
-| Task Creation | AI Breakdown |
-|:---:|:---:|
-| ![Task Creation](https://via.placeholder.com/400x300/1e293b/ffffff?text=New+Task+Modal) | ![AI Breakdown](https://via.placeholder.com/400x300/1e293b/ffffff?text=AI+Generated+Steps) |
 
 ## 🤝 Contributing
 
