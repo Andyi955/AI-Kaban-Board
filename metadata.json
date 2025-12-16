@@ -1,0 +1,5 @@
+{
+  "name": "AI Kanban Board",
+  "description": "A smart Kanban board that uses Google Gemini to automatically break down tasks into actionable sub-steps.",
+  "requestFramePermissions": []
+}
